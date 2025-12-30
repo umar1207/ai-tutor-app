@@ -1,0 +1,23 @@
+# Core
+python-dotenv>=1.0.0
+
+# LangChain ecosystem
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.8
+
+# LangGraph
+langgraph>=0.1.15
+
+# Vector DB
+chromadb>=0.5.0
+
+# MCP
+mcp>=1.1.0
+
+# Utilities
+typing-extensions>=4.9.0
+
+# Testing
+pytest>=8.0.0
